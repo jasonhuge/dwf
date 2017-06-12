@@ -1,0 +1,6 @@
+framework module Pods_Dinner_With_FriendsTests {
+  umbrella header "Pods-Dinner With FriendsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
